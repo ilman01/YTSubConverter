@@ -1,5 +1,6 @@
 # YTSubConverter
 A tool for creating styled YouTube subtitles.
+(This is a fork of YTSubConverter 1.5.0 version)
  
 ![Sample image](images/sample.png)
 
